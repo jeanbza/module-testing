@@ -1,6 +1,6 @@
 package pkg_a
 
-import "dummy/modules-multi/pkg_b"
+import "github.com/jadekler/module-testing/pkg_b"
 
 const FooA = "FooA"
 
